@@ -22,6 +22,7 @@
 				// ROS
 				"ajshort.msg",
 				"ms-iot.vscode-ros",
+				"betwo.b2-catkin-tools",
 				// Linting, Tasks, Git nice-to-haves
 				"mhutchie.git-graph",
 				"nhoizey.gremlins",
